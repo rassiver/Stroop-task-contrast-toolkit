@@ -71,12 +71,20 @@ Summary statistics (accuracy, RTs, Stroop effect)
 
 bibtex
 
-@misc{Lindell_StroopLSL,
+@software{Lindell_Stroop_Contrast_Toolkit_2024,
   author = {Lindell, Rasmus Åberg},
+  title = {Stroop Task Contrast Toolkit},
   year = {2024},
-  title = {Dual-Contrast Stroop Task Suite},
-  howpublished = {Available by request from author},
-  note = {License: CC-BY-4.0}
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/rassiver/Stroop-task-contrast-toolkit}},
+  commit = {main},
+  url = {https://github.com/rassiver/Stroop-task-contrast-toolkit/tree/main},
+  note = {doi:10.5281/zenodo.XXXXXXX},  % Optional: Add if you have a DOI
+  keywords = {psychopy, stroop-task, cognitive-psychology, neuroimaging, lsl},
+  abstract = {A modular PsychoPy implementation of Stroop tasks with high/low contrast variants and LabStreamingLayer integration. Contains four experimental paradigms: Standard Feedback, Randomized ITI, Extended Protocol, and Merged Design. Developed for EEG/fNIRS/fMRI compatibility.},
+  version = {1.0},
+  license = {CC-BY-4.0}
 }
 
 APA
