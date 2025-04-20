@@ -44,7 +44,7 @@ Feedback		✓		✗		✗		✗
 ITI Type		Fixed		Random		Random		Random
 Block Lengths		8		8		8 & 15		8 & 15
 Contrasts per Run	Single		Single		Single		Both
-Best For		Behavior	EEG/fMRI	fNIRS	M	ulti-modal
+Best For		Behavior	EEG/fMRI	fNIRS		Multi-modal
 ----------------------------------------------------------------------------------
 
 ------------------
