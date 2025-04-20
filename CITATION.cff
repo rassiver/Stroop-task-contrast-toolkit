@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this software using these metadata."
+title: "Stroop Task Contrast Toolkit"
+version: "1.0.0"
+authors:
+  - given-names: "Rasmus Åberg"
+    family-names: "Lindell"
+    email: "rassiver@hotmail.com"
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.XXXXXXX"  # You'll replace this after Zenodo setup
+repository-code: "https://github.com/rassiver/Stroop-task-contrast-toolkit"
+keywords:
+  - "stroop"
+  - "psychopy"
+  - "neuroimaging"
+  - "lsl"
+  - "cognitive-psychology"
+abstract: "Modular PsychoPy implementation of Stroop tasks with high/low contrast variants and LSL integration. Contains four experimental paradigms for behavioral and neuroimaging studies."
