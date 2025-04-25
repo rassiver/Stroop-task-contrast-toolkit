@@ -88,5 +88,4 @@ bibtex
 }
 
 APA
-Lindell, R. Å. (2024).  
-Dual-contrast Stroop task scripts with LabStreamingLayer integration [Unpublished computer software]. 
+Åberg Lindell, R. (2025). Stroop Task Suite for PsychoPy: High- and Low-Contrast Versions with integrated LabStreamingLayer (LSL) for neurophysiology synchronization (Version 1). Zenodo. https://doi.org/10.5281/zenodo.15284374
