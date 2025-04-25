@@ -7,7 +7,7 @@ authors:
     family-names: "Lindell"
     email: "rassiver@hotmail.com"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.XXXXXXX"  # You'll replace this after Zenodo setup
+doi: "10.5281/zenodo.15284374"
 repository-code: "https://github.com/rassiver/Stroop-task-contrast-toolkit"
 keywords:
   - "stroop"
