@@ -80,7 +80,7 @@ bibtex
   howpublished = {\url{https://github.com/rassiver/Stroop-task-contrast-toolkit}},
   commit = {main},
   url = {https://github.com/rassiver/Stroop-task-contrast-toolkit/tree/main},
-  note = {doi:10.5281/zenodo.XXXXXXX},  % Optional: Add if you have a DOI
+  note = {DOI: 10.5281/zenodo.15284374}
   keywords = {psychopy, stroop-task, cognitive-psychology, neuroimaging, lsl},
   abstract = {A modular PsychoPy implementation of Stroop tasks with high/low contrast variants and LabStreamingLayer integration. Contains four experimental paradigms: Standard Feedback, Randomized ITI, Extended Protocol, and Merged Design. Developed for EEG/fNIRS/fMRI compatibility.},
   version = {1.0},
