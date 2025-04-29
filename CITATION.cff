@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: "Please cite this software using these metadata."
 title: "Stroop Task Contrast Toolkit"
-version: "1.0.0"
+version: "2.0.0"
 authors:
   - given-names: "Rasmus Åberg"
     family-names: "Lindell"
     email: "rassiver@hotmail.com"
 license: "CC-BY-4.0"
-doi: "10.5281/zenodo.15284374"
+doi: "10.5281/zenodo.15306699"
 repository-code: "https://github.com/rassiver/Stroop-task-contrast-toolkit"
 keywords:
   - "stroop"
