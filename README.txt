@@ -10,6 +10,9 @@ For citation purposes, please use:
 "Custom Stroop implementation (Lindell, 2024) with LSL markers."
 
 Description
+!Version 2: Added backup experiments as contingencies, in case LSL markers do not transfer properly.
+Earlier versions do not send pure strings, therefore, some recording software might use default fault codes.
+
 PsychoPy-based Stroop tasks with integrated LabStreamingLayer (LSL) for neurophysiology synchronization:
 
 High Contrast (HC): Black background with saturated colors
@@ -80,7 +83,7 @@ bibtex
   howpublished = {\url{https://github.com/rassiver/Stroop-task-contrast-toolkit}},
   commit = {main},
   url = {https://github.com/rassiver/Stroop-task-contrast-toolkit/tree/main},
-  note = {DOI: 10.5281/zenodo.15284374}
+  note = {10.5281/zenodo.15306699}
   keywords = {psychopy, stroop-task, cognitive-psychology, neuroimaging, lsl},
   abstract = {A modular PsychoPy implementation of Stroop tasks with high/low contrast variants and LabStreamingLayer integration. Contains four experimental paradigms: Standard Feedback, Randomized ITI, Extended Protocol, and Merged Design. Developed for EEG/fNIRS/fMRI compatibility.},
   version = {1.0},
